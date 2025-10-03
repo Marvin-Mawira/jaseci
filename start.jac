@@ -1,3 +1,3 @@
 with entry {
-    print("Start");
+    print("Hello, World!");
 }
